@@ -49,3 +49,22 @@ What are the benefits of using VCS:
         - Distributed: Stored on multiple machines. Each user has a complete copy of the repository
 
 __NOTE:__ Distributed version control systems are the most popular. Git is a distributed version control system
+
+### 📝 Git:
+- Git is a program that helps users manage files and track changes
+
+- GitHub is a web service that allows uers to store and share Git repositories online
+
+
+### 📝 Git states
+Git has 3 states: 
+
++ Working Directory: New or modified files that you are currently working on.
++ Staging Area: Files that have been added to the preparation area and are ready to be committed
++ Repository: Contains committed changes (versions) of your project
+
+![image](./Images/1.png)
+
+
+
+
