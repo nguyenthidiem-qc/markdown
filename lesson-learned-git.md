@@ -59,9 +59,10 @@ __NOTE:__ Distributed version control systems are the most popular. Git is a dis
 ### 📝 Git states
 Git has 3 states: 
 
-+ Working Directory: New or modified files that you are currently working on.
-+ Staging Area: Files that have been added to the preparation area and are ready to be committed
-+ Repository: Contains committed changes (versions) of your project
++ __Working Directory:__ New or modified files that you are currently working on.
++ __Staging Area:__ Files that have been added to the preparation area and are ready to be committed
++ __Repository:__ Contains committed changes (versions) of your project
+
 
 ![image](./Images/1.png)
 
