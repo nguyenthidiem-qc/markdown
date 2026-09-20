@@ -16,11 +16,11 @@ Before working with Git, we need to know some basic configurations:
 
 
 # 2. Steps to push code to Github
-1. Create a new folder on your local (ex: markdown)
-2. Create a new repository on your github (ex: markdown)
+1. Create a new folder on your local machine (ex: markdown)
+2. Create a new repository on the Github (ex: markdown)
 3. Open VScode and open created folder "markdown"
-4. Add one or some files to your folder on VS code
-5. Open Terminal and run commands: 
+4. Add one or more files to the folder using VS code
+5. Open Terminal and run the following commands: 
 
         1. git innit //khởi tạo git
         2. git remote add origin <ssh address> //gán git cho 1 repo
