@@ -67,5 +67,14 @@ Git has 3 states:
 ![image](./Images/1.png)
 
 
+# 📖 4. Git - Undo
+
++ __Restore git from Staging to Working directory:__ git store --staged tenfile
+or git store --staged .
+
++ __Restore git from Repository to Working directory:__ git reset HEAD~socommit
+
+
+
 
 
