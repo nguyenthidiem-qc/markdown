@@ -77,7 +77,7 @@ or git store --staged .
 # 📖 5. Git - Branch
 + To create new branch: git branch branchname
 + To view all branches in your repository: git branch
-
++ To push a branch to GitHub, use the following syntax: git push origin tennhanh
 
 
 
