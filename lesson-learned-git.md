@@ -74,6 +74,9 @@ or git store --staged .
 
 + __Restore git from Repository to Working directory:__ git reset HEAD~socommit
 
+# 📖 5. Git - Branch
++ To create new branch: git branch branchname
++ To view all branches in your repository: git branch
 
 
 
