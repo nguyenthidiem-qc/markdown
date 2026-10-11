@@ -10,11 +10,16 @@ console.log(grade);
 
 // for..in
 const person = {
-    name2: "Hana", 
-    age: 30, 
+    name2: "Hana",
+    age: 30,
     city: "Hanoi2"
 };
-for(let key in person){
+for (let key in person) {
     //console.log(key + ":" + person[key]);
     console.log(key);
 }
+
+const numbers = [1, 7, 9, 5];
+numbers.forEach(function(value){
+    console.log(value);
+})

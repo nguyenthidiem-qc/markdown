@@ -79,6 +79,11 @@ There are 3 types of scope in Javascipt:
     - for...of: Used to iterate over the value of an array.
     ![image](./Images/10.png)
 
+    - forEach(): Used to iterate over the elements of an array and execute a function for each element.
+    ![image](./Images/11.png)
+    
+
+
 5. __Utils functions:__
 
 
