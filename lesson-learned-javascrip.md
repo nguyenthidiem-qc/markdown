@@ -73,8 +73,13 @@ There are 3 types of scope in Javascipt:
 ![image](./Images/8.png)
 
 4. __Advanced loop:__
+    - for...in: Used to iterate over the properties of an object. (iterate over: duyệt qua)
+    ![image](./Images/9.png)
 
+    - for...of: Used to iterate over the value of an array.
+    ![image](./Images/10.png)
 
 5. __Utils functions:__
+
 
 
