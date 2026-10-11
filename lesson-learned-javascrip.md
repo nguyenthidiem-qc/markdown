@@ -70,6 +70,7 @@ There are 3 types of scope in Javascipt:
 
 ![image](./Images/6.png)
 ![image](./Images/7.png)
+![image](./Images/8.png)
 
 4. __Advanced loop:__
 
