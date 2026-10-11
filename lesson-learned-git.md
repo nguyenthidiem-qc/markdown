@@ -66,6 +66,14 @@ Git has 3 states:
 
 ![image](./Images/1.png)
 
+### [CHỐT LẠI KIẾN THỨC:]
+- Working Directory: Coding, or modify code
+- Git add: Select changes that want to commit
+- Git commit: Chốt lại và lưu 1 phiên bản vào máy tính
+- Git push: Push commited to Github
+
+
+
 
 # 📖 4. Git - Undo
 
@@ -79,5 +87,7 @@ or git store --staged .
 + To view all branches in your repository: git branch
 + To push a branch to GitHub, use the following syntax: git push origin tennhanh
 
+
+# Cần update thêm message: chore, feat, fix
 
 
