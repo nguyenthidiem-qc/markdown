@@ -94,6 +94,7 @@ There are 3 types of scope in Javascipt:
 - reduce(): duyệt qua mảng và tích lũy các phần từ thành 1 giá trị duy nhất (số, chuỗi, object...) dựa trên hàm callback
 ![image](./Images/12.png)
 
-
+- some(): Kiểm tra xem có ít nhất 1 phần tử trong mảng thỏa điều kiện hay không. Trả về true/false
+- every(): Kiểm tra xem all phần tử trong mảng thỏa điều kiện hay không. Trả về true/false
 
 

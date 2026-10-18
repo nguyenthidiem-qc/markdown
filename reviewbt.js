@@ -120,6 +120,29 @@ const sumReduce = redudeNumbers.reduce((accumulator, current) => {
 
 console.log(sumReduce);
 
+//Reduce
+const cart = [
+    { product: "laptop", price: 950, quantity: 1 },
+    { product: "ipad", price: 550, quantity: 1 },
+    { product: "iphone", price: 250, quantity: 2 }
+];
+
+//Tính tổng tiền giỏ hàng
+const sumCart = cart.reduce((accu, cur) => {
+    return accu + (cur.price * cur.quantity);
+}, 0);
+console.log(sumCart);
+
+const sumQty = cart.reduce((accQty, curQty) => {
+    return accQty + curQty.quantity;
+}, 0);
+console.log(`Tổng số lượng sản phẩm là: ${sumQty}`);
+
+//sort
+const numSort = [100, 1, 98, 3, 77, 10];
+numSort.sort((a,b) => b - a);
+console.log(numSort);
+
 
 
 
