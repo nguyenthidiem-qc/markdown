@@ -85,6 +85,15 @@ There are 3 types of scope in Javascipt:
 
 
 5. __Utils functions:__
+- map():
+
+- filer():
+
+- find()
+
+- reduce(): duyệt qua mảng và tích lũy các phần từ thành 1 giá trị duy nhất (số, chuỗi, object...) dựa trên hàm callback
+![image](./Images/12.png)
+
 
 
 
